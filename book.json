@@ -1,0 +1,13 @@
+{
+  "description": "Example book: a long refining margin, a Brent-WTI spread and a few outright positions",
+  "positions": {
+    "CL": -45,
+    "RB": 20,
+    "HO": 10,
+    "BZ": 15,
+    "NG": -20,
+    "HG": 12,
+    "ZC": 40,
+    "KC": 8
+  }
+}
